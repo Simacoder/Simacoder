@@ -1,19 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Simanga</h1>
-<h3 align="center">I'm a passionate Data scientist and Software engineering from South Africa.</h3>
+<h3 align="center">I'm a passionate Data Scientist and Software Engineering from South Africa.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I’m @Simacoder
+- 👋 Hi, I’m Simanga Mchunu
 - 👀 I’m interested in Data science, Statistics, computer programming and Applied Mathematics
 - 🌱 I’m currently studying Applied Mathematics and Computer Science (Bsc degree)
 - 💞️ I’m looking to collaborate on most projects on Data Science, apps
 - 📫 How to reach me on twitter @Simacoder
 - 📫 How to reach me **simacoder@hotmail.com**
-
-- ⚡ Fun fact **Chess is a tactician's friend.**
+- ⚡ Fun fact **Chess is the tactician's friend.**
 
 ## 🚀 Languages and Tools:
 
@@ -42,7 +41,7 @@
 
 <p align="center">
     <a href="https://github.com/Simacoder/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Simacoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Simanga Mchunu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Simacoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -50,7 +49,7 @@
 
   <br/>
     <a href="https://github.com/Simacoder/github-readme-stats"><img alt="Simanga Mchunu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Simacoder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Simacoder/github-readme-stats"><img alt="Simanga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simacoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Simacoder/github-readme-stats"><img alt="Simanga Mchunu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simacoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -66,9 +65,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/simanga-mchunu-7570078a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/simanga-mchunu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/simacoder"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://studio.youtube.com/channel/UC9c2dUABy4v4TrYf_TbCfiA/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UC9c2dUABy4v4TrYf_TbCfiA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
