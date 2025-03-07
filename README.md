@@ -46,7 +46,7 @@
 </p>
 <br>
     <p align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <a href="https://github.com/Simacoder/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile" alt="Simanga Mchunu's streak" src="https://streak-stats.demolab.com/?user=Simacoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
