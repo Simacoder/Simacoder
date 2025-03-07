@@ -45,13 +45,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Simacoder&theme=dark)](https://git.io/streak-stats)
 
 
-|     Theme      |                            Preview                            |
-| :------------: | :-----------------------------------------------------------: |
-|   `default`    |          ![default](https://i.imgur.com/IaTuYdS.png)          |
-|     `dark`     |           ![dark](https://i.imgur.com/bUrsjlp.png)            |
-| `highcontrast` |       ![highcontrast](https://i.imgur.com/ovrVrTY.png)        |
-
-
 ## 📊 My Github Stats
 
   <br/>
