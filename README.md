@@ -44,14 +44,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Simanga Mchunu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Simacoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<br>
-    <p align="center">
-    <a href="https://github.com/Simacoder/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile" alt="Simanga Mchunu's streak" src="https://streak-stats.demolab.com/?user=Simacoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-<br/>
 
 ## 📊 My Github Stats
 
