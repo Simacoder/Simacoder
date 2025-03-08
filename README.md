@@ -58,7 +58,7 @@
 
 <br/>
 <br/>
-[![Simanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Simacoder&theme=dracula)](https://github.com/simacoder/github-readme-activity-graph)
+[![Simanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Simacoder&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
