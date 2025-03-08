@@ -58,10 +58,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/Simacoder/github-readme-activity-graph">
-    <img alt="Simanga Mchunu's Activity Graph" 
-         src="https://github-readme-activity-graph.cyclic.app/graph?username=Simacoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
+[![Simanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Simacoder&theme=dracula)](https://github.com/simacoder/github-readme-activity-graph)
 
 
 
