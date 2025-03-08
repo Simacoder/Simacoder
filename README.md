@@ -62,8 +62,9 @@
 [![Simanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Simacoder&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
+<br>
 
-[![Simanga's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Simacoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Simanga's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[Simacode](https://wakatime.com/dashboard)r)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 
